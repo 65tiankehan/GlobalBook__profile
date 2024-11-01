@@ -1,0 +1,9 @@
+[
+  {
+         "title":"官方通知",
+         "message":"来自官方的一条测试通知~",
+         "closable":true,
+         "type":"default",
+         "UUID":"47852e4b-21ac-447c-8fd2-c4d7c27df027"
+  }
+]
