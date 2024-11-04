@@ -1,16 +1,9 @@
 [
   {
          "title":"官方通知",
-         "message":"Global book 发布了1.0.10版本，修复了1.0.7至1.0.8版本中的问题~",
+         "message":"发布1.0.11版~",
          "closable":true,
-         "type":"warning",
-         "UUID":"c260295d-0248-403f-af26-3134f43e235e"
-  },
-  {
-         "title":"官方通知",
-         "message":"免费，开源，稳定，是GlobalBook的核心~",
-         "closable":true,
-         "type":"info",
-         "UUID":"f3f2b677-2eeb-4a7e-9aa9-1001aebd620b"
+         "type":"default",
+         "UUID":"1f6fbaff-bb99-45df-afcd-1e424928ecc0"
   }
 ]
