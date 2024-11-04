@@ -1,9 +1,17 @@
 [
   {
          "title":"官方通知",
-         "message":"请更新到1.0.11版本的用户，请卸载，并重新使用1.0.2版进行更新，更新至1.0.13版本~",
+         "message":"发布1.0.14版本，搜索推荐，新增其他类别。",
          "closable":true,
          "type":"default",
-         "UUID":"dfa85f8a-bf8b-491f-a176-95bf2d4dd537"
+         "UUID":"ac24bcf5-eb01-4bcd-894a-fad3835cd6f6"
+  },
+  {
+         "title":"官方通知",
+         "message":"请更新到1.0.11版本的用户，请卸载，并重新使用1.0.2版进行更新，更新至少1.0.13版本~",
+         "closable":true,
+         "type":"error",
+         "UUID":"d3d74b72-8f9e-4b52-ab09-ef6ae7f0b388"
   }
+  
 ]
