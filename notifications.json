@@ -1,9 +1,9 @@
 [
   {
          "title":"官方通知",
-         "message":"来自官方的一条测试通知~",
+         "message":"Global book 发布了1.0.9版本，修复了1.0.7至1.0.8版本中的问题~",
          "closable":true,
-         "type":"default",
-         "UUID":"47852e4b-21ac-447c-8fd2-c4d7c27df027"
+         "type":"warning",
+         "UUID":"7bd2ac6a-8b21-4cd5-9d46-20b8fcc99956"
   }
 ]
